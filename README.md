@@ -11,12 +11,6 @@
 
 <br/>
 
-</div>
-
-### 01 / GITHUB IN NUMBERS
-
-<div align="center">
-
 <a href="https://github.com/obaqq">
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=obaqq&show_icons=true&hide_border=true&bg_color=00000000&title_color=9B7BFF&text_color=888888&icon_color=9B7BFF&ring_color=9B7BFF&include_all_commits=true" alt="obaqq's GitHub statistics" />
 </a>
