@@ -19,35 +19,6 @@ I make things, explore ideas, and follow interesting problems.
 
 </div>
 
-<td width="50%" valign="top">
-
-**02 — INDEPENDENT**
-
-### [CRASHING LTD](https://github.com/crashing-ltd)
-
-The project space behind the CRASHING LTD name.
-
-[Visit the organization →](https://github.com/crashing-ltd)
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**03 — ELSEWHERE**
-
-### [crashing.ltd](https://crashing.ltd/)
-
-A home on the web. Outside the timelines, feeds, and algorithms.
-
-[Visit crashing.ltd ↗](https://crashing.ltd/)
-
-</td>
-</tr>
-</table>
-
----
-
 ### 04 / GITHUB IN NUMBERS
 
 <div align="center">
