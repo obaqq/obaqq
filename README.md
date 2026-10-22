@@ -19,58 +19,6 @@ I make things, explore ideas, and follow interesting problems.
 
 </div>
 
----
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-### 01 / THE PERSON
-
-**obaqq** — an independent corner of the internet.
-
-Interested in the intersection of technology, design, and the things people create with them.
-
-I like projects with a point of view. Useful things, unusual ideas, small details that make a difference, and experiments that turn into something more.
-
-This profile is a living collection of what I'm working on, what I'm learning, and what I find worth building.
-
-</td>
-<td width="42%" valign="top">
-
-### 02 / THE APPROACH
-
-**Curiosity first.**
-
-I value:
-
-- Making over overthinking
-- Simple ideas, done well
-- Experimentation without the noise
-- Having a distinct point of view
-- Leaving room for the unexpected
-
-</td>
-</tr>
-</table>
-
----
-
-### 03 / SELECTED PLACES
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**01 — PERSONAL**
-
-### [obaqq](https://github.com/obaqq)
-
-Projects, experiments, and things I'm exploring.
-
-[Explore GitHub →](https://github.com/obaqq)
-
-</td>
 <td width="50%" valign="top">
 
 **02 — INDEPENDENT**
