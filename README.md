@@ -1,4 +1,3 @@
-```md
 <!--
   OBΛQQ / PERSONAL ARTIFACT
   Identity: experimental internet
@@ -185,4 +184,3 @@ If you followed the signal this far, here are the exits.
 <sub>this page is a snapshot, not a biography.</sub>
 
 </div>
-```
