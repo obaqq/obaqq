@@ -1,7 +1,3 @@
-<!--
-  obaqq — GitHub profile
-  Custom visual identity · Editorial / experimental
--->
 
 <div align="center">
 
@@ -9,9 +5,7 @@
 
 <br/>
 
-### INDEPENDENT BY DESIGN. CURIOUS BY DEFAULT.
-
-I make things, explore ideas, and follow interesting problems.
+### Love the coding side, hate graphical lol
 
 [**Website ↗**](https://crashing.ltd/) &nbsp; / &nbsp; [**GitHub ↗**](https://github.com/obaqq) &nbsp; / &nbsp; [**CRASHING LTD ↗**](https://github.com/crashing-ltd)
 
@@ -19,7 +13,7 @@ I make things, explore ideas, and follow interesting problems.
 
 </div>
 
-### 04 / GITHUB IN NUMBERS
+### 01 / GITHUB IN NUMBERS
 
 <div align="center">
 
@@ -36,22 +30,16 @@ I make things, explore ideas, and follow interesting problems.
 <img src="https://streak-stats.demolab.com?user=obaqq&hide_border=true&background=00000000&ring=9B7BFF&fire=FF956B&currStreakLabel=9B7BFF&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=777777" alt="GitHub contribution streak" />
 </a>
 
-<sub>Live cards based on available GitHub activity and repository data.</sub>
-
 </div>
-
----
 
 <div align="center">
 
-### THE INTERNET IS STILL A PLACE TO MAKE THINGS.
-
-If something here catches your eye, take a look around.
+### Much love :)
 
 [**Browse my repositories ↗**](https://github.com/obaqq?tab=repositories)
 
 <br/>
 
-<sub>obaqq · [crashing.ltd](https://crashing.ltd/) · Made with curiosity.</sub>
+<sub>obaqq · [crashing.ltd](https://crashing.ltd/) · Made with love.</sub>
 
 </div>
